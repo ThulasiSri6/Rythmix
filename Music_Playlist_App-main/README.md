@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Music Playlist - Spotify Inspired
 
 A modern, fully-featured music player web application inspired by Spotify, built with React, React Router, and Tailwind CSS.
@@ -155,4 +155,3 @@ This project is open source and available under the MIT License.
 
 =======
 # Music_Playlist_App
->>>>>>> 56aaa6bd40b9c93a4d6fc5f92bd44bd1aa980566
