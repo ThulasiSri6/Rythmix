@@ -1,5 +1,5 @@
 
-# Music Playlist - Spotify Inspired
+# Music Playlist - Rythmix
 
 A modern, fully-featured music player web application inspired by Spotify, built with React, React Router, and Tailwind CSS.
 
